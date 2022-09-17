@@ -4,11 +4,11 @@
   
   
   <entry>
-    <title>这是一个新的尝试</title>
-    <link href="/2022/09/17/%E8%BF%99%E6%98%AF%E4%B8%80%E4%B8%AA%E6%96%B0%E7%9A%84%E5%B0%9D%E8%AF%95/"/>
-    <url>/2022/09/17/%E8%BF%99%E6%98%AF%E4%B8%80%E4%B8%AA%E6%96%B0%E7%9A%84%E5%B0%9D%E8%AF%95/</url>
+    <title>Hello World</title>
+    <link href="/2022/09/17/hello-world/"/>
+    <url>/2022/09/17/hello-world/</url>
     
-    <content type="html"><![CDATA[<p><em>这是斜体</em><br><strong>这是粗体</strong><br>这是普通</p>]]></content>
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
     
     
@@ -17,11 +17,63 @@
   
   
   <entry>
-    <title>Hello World</title>
-    <link href="/2022/09/17/hello-world/"/>
-    <url>/2022/09/17/hello-world/</url>
+    <title>斜视</title>
+    <link href="/2022/04/22/%E6%96%9C%E8%A7%86/"/>
+    <url>/2022/04/22/%E6%96%9C%E8%A7%86/</url>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>　　今天原本打算去验个光，然后配个眼镜。做了个眼睛的测试，由于斜视加上我的右眼的度数比左眼的度数要少300多度的缘故，我平时只使用右眼，导致我的右眼的眼压非常的大。后面我又做个立体视的测试，在一个有一定厚度的黑白的测试图上，我完全看不出有立体的图形，立体视缺失。我才意识到好像真的挺严重的，不仅仅是因为外形的原因，他说可能会影响开车。我寻思这好像我科目二挂就有借口了。</p><p>　　在我初二的时候我才发现我有斜视，当时我同学突然对我说为什么你说话不看我？我才发现的，之前从未有过这样的体验，小学的时候应该没有，我也不大确定，我一个发小说我时候就发现我说话不看她了，另一个又说没有发现，小学的时候也没有同学开玩笑说我眼睛怎么样，所以我也不确实是天生的还是后天的。</p><p>　　下午去医院挂了个眼科咨询了一下，如果要做的话得两边眼睛都做，住院一周左右，现在还在上学没有时间，只能等暑假的时候再去看看了。我挺想做的，但同时也很害怕，直接在眼里开刀，害怕手术后有什么风险。在知乎搜了很多关于斜视的回复，大家收到的困扰都差不多。</p><p>　　这个斜视真的困扰了我好久，和别人说话的时候总是不敢看着别人，在很多场景都是很尴尬的一个处境。特别是上课老师提问的时候，当时我的高中物理老师提问我回答问题，一直指着黑板的另一端让我看向那边，我尴尬的解释了一下，老师也尴尬。幸运的是，我从小到现在基本上没有受到什么歧视，从初中到现在的同学朋友啥的都没怎么提，只是第一次发现的时候有点惊讶。</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>绝味小事</title>
+    <link href="/2022/01/27/%E7%BB%9D%E5%91%B3%E5%B0%8F%E4%BA%8B/"/>
+    <url>/2022/01/27/%E7%BB%9D%E5%91%B3%E5%B0%8F%E4%BA%8B/</url>
+    
+    <content type="html"><![CDATA[<p>今天去买绝味发现这阿姨挺好的。我点了些东西然后和阿姨说能不能帮我加点卤汁，也顺便说明了原因：第一次吃的时候很好吃，上一次吃味道就比较淡点。他解释了下说有顾客说太咸了所以没有加太多，然后又问了下我能不能等两分钟她回家拿一下新的卤汁，然后她就吧原来的卤汁给倒了说这个卤汁不太好吃所以没有给你加，回家给你拿新的。回来之后，阿姨又送了一份海带，就感觉到特别的，也不知道怎么形容，大概是人与人之间的那种真诚吧。 后面阿姨说了原因，上次不好吃你还来买，必须送上一份。</p><p>怎么说呢，对于不爱和人交流的我就感觉很温暖。就是下次说出那个东西不太好的时候一定夸几句好的。阿姨生意一定要越来越好啊！！</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>雷电模拟器绿色版无法卸载导致升级不了windows11</title>
+    <link href="/2021/09/09/%E9%9B%B7%E7%94%B5%E6%A8%A1%E6%8B%9F%E5%99%A8%E7%BB%BF%E8%89%B2%E7%89%88%E6%97%A0%E6%B3%95%E5%8D%B8%E8%BD%BD%E5%AF%BC%E8%87%B4%E5%8D%87%E7%BA%A7%E4%B8%8D%E4%BA%86windows11/"/>
+    <url>/2021/09/09/%E9%9B%B7%E7%94%B5%E6%A8%A1%E6%8B%9F%E5%99%A8%E7%BB%BF%E8%89%B2%E7%89%88%E6%97%A0%E6%B3%95%E5%8D%B8%E8%BD%BD%E5%AF%BC%E8%87%B4%E5%8D%87%E7%BA%A7%E4%B8%8D%E4%BA%86windows11/</url>
+    
+    <content type="html"><![CDATA[<p>没找到雷电模拟器绿色版怎么卸载升级windows11卡在35%，显示virtualbox（LD）需要手动卸载。网上看到的注册表搜索virtualbox没搜索到，没办法删除。</p><p>解决办法：雷电官网下载模拟器重新安装再卸载就可以</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>奇怪的梦</title>
+    <link href="/2021/08/07/%E5%A5%87%E6%80%AA%E7%9A%84%E6%A2%A6/"/>
+    <url>/2021/08/07/%E5%A5%87%E6%80%AA%E7%9A%84%E6%A2%A6/</url>
+    
+    <content type="html"><![CDATA[<p>下午做了一个可怕的梦。<br>因为暴雨而发大水，开始只是把学校的一楼淹了，不就后就退水了，老师们叫我们不用担心。但好景不长，不过一会水又上来了，梦里的教学楼是那种一圈围起来的，楼顶是跑道。是绕着每一层跑一圈再往上一层，直到水冲向顶楼，我们在跑道上跑，水在后面追，每个人都在绝望地呐喊者，最后被大水冲走了，我被冲到尽头后，发现的围栏是连着外面的平地的，但是围栏都是刺，然后就忍着痛爬了出去，手上都是血。爬出去后凝望了一下里面就醒了。<br>醒来，外面正是下着暴雨，记得中午的时候还是阳光明媚。</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>猪</title>
+    <link href="/2021/03/19/%E7%8C%AA/"/>
+    <url>/2021/03/19/%E7%8C%AA/</url>
+    
+    <content type="html"><![CDATA[<p>　　我是一只猪，一只土生土长的在养猪场里的小猪，一只从一开始命运就被安排得明明白白的猪。<br>　　小时候，妈妈总是告诉我要多吃点，多休息，晒晒太阳睡睡觉，尽情享受这快乐的日子，我信了，并且也这么做了。但她却没有告诉我这生活其实很短暂，直到我亲眼看见大表哥被人类抓去的时候，我才恍然察觉到这是一个多么大的骗局。后来，我不再好吃懒惰，而且不停地锻炼自己，发誓一定要逃出这温暖的囚笼！爷爷知道后，立即跑过我身旁告诉我出门后一直往西走，就能逃走。<br>　　当一个又一个哥哥姐姐离开了我们家的时候，我知道，下一个可能就是我了，于是，我开启了准备已久的这一天寻找自由的逃亡。<br>　　这一天，天还没亮，人类的呼噜声还在呼呼响，我早早就起来检查昨晚我留下的“后门”，发现能打开后，就放心地吃起了美食，以便有足够的体力逃跑。收拾收拾后，我就偷偷摸摸地溜出养猪场。妈妈跟了出来和我说：“你知不知道外面有多么危险，一旦出去了，你就不会受到保护任何人类都可以伤害你，你会后悔的！”健壮的我把她推了回去，说：“我不逃出去我才后悔！我为了这一天已经准备了很久了！我早就受不了这的生活了！”<br>　　外面的世界真精彩，一花一草都这么美丽，舔一舔那凝结在小草上的小露珠，格外甘甜。东边微微泛起红光，我知道那是太阳，也是希望，只不过我要背着走罢了，不过这又有什么关系呢？只要自由就好！于是，我一路向前走。<br>　　正值中午，我有些累了，于是在一所小学旁边的树下停下来歇息，不一会就睡着了。“嘻嘻嘻、哈哈哈”小孩子们的笑声让我在睡梦中惊醒，让我以为抓我的人来找我，但我抬头一看，她们没有恶意，好像还想和我交朋友，但我是要做大事的人，怎么能和小孩子们玩耍呢？我摇了摇脑袋，试图清醒自己，准备继续我的征程！还没等我站起来，便听见一声“谁家的猪跑了出来，待会伤害到孩子们怎么办，快把它抓起来！”说罢，还没等我反应过来，便拿起绳子向我套了过来，但锻炼了这么多天我又怎么会下套呢？3我凭借矫健的身手，在绳子落向我的那一刻溜走了。一路上，我疑惑到“为什么小朋友不怕我，我也没有伤害他们，反而大人要置我于死地呢？”哎呀，管他呢，想不通就不想了，继续向我光明的未来前进！走了许久，我来到了一个公交车站，灵光一闪：我要坐这个车去！回想起那几个人类对我棍棒相视，这个想法很快就浇灭了。我沮丧的低下了头，从后面走了出去，这是一个小男孩发现了我，好像知道我的想法一般，摸了摸我的头，似乎在告诉我：“跟着我走，带你坐车。”上车后，车上的人用异样的眼光看着我和小男孩，并在拥挤的车里将我们隔离开，他们人挤着人面面相向，我们在略大的空间坐着躺着都可以，都不说话，就这样过了很久很久。<br>　　夜幕降临，身后城市一盏一盏灯亮了起来，像天上的繁星点亮漆黑的夜晚，群芳斗艳一般互不相让，一片夺目的光华映得天上的月亮都失去了光彩。这都与我无关，我可是要追求我的自由呀！<br>　　下车后，就与男孩告别，继续我的征程。但小男孩没走，而是跟在我的身后。走了一会，在漆黑中的光点慢慢清晰，“这是我未来的家吗？”我兴奋地想着。越走越近，突然有几个人把我控制住，就在这时，房子里时不时传来嚎叫，我终于明白怎么回事了！身后的男孩，边哭边跑了上来，但他的挽救无济于事，他只是个小男孩啊。我不停地挣扎着，反抗着，试图逃出他们的抓捕。最后，我筋疲力尽，他们又换了一波人，斗不过啊。面对这最后一刻，我想起了我的妈妈，想到爷爷的话，但我不后悔，至少这几天我过得如此充实，至少我留在了那个小男孩的心里。</p>]]></content>
     
     
     
